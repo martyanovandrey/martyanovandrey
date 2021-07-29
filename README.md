@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Martyanov Andrey and i'm frond-end developer.
+My name is Martyanov Andrey and i'm front-end developer.
 
 
 🔭 I’m currently working with my team on a canvas [quiz game](https://github.com/Fargo-praktikum/game)
